@@ -1,0 +1,17 @@
+body {
+    background-color: #000 !important;
+	}
+.bg-img{
+	background-image: url('bakso.jpg');
+}
+.w3-teal {
+	color: #fff;
+	margin : -8px;
+}
+.reservasi{
+	background-color: #fff;
+	height: 65%;
+}
+form {
+    margin: 2%;
+}
